@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Alex Nicoll Experience]]></title>
         <description><![CDATA[The Alex Nicoll Experience]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-alex-nicoll-experience/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 18:34:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 18:47:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-alex-nicoll-experience/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Wishlist - Top Gaming Merchandise]]></title>
+            <description><![CDATA[<article><h1>The Wishlist - Top Gaming Merchandise</h1><p>Head on over to the Playstation blog to find their latest Spring competition and you will see that as well as winning a console (which is great!) you can also pick up some Playstation Stash as well. This got me thinking, what's my most wanted gaming related gear out there?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9b307390842e09ada08405a5d2b3faa51bba719.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-alex-nicoll-experience/the-wishlist-top-gaming-merchandise/index.html</link>
+            <guid isPermaLink="false">fd28e699-8795-4a40-a469-b39cc204a072</guid>
+            <pubDate>Sun, 24 Apr 2016 18:47:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome to The Alex Nicoll Experience]]></title>
             <description><![CDATA[<article><h1>Welcome to The Alex Nicoll Experience</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/901cf56a-f352-4fef-8dd9-0938d4ce6cd3.jpg"></article>]]></description>
-            <link>undefinedwelcome-to-the-alex-nicoll-experience/index.html</link>
+            <link>https://thegrid.ai/the-alex-nicoll-experience/welcome-to-the-alex-nicoll-experience/index.html</link>
             <guid isPermaLink="false">02d90400-f705-4714-b1fa-e5ae8c7cdfa3</guid>
             <pubDate>Sun, 24 Apr 2016 18:33:41 GMT</pubDate>
         </item>
