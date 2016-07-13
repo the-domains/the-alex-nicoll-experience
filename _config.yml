@@ -1,5 +1,8 @@
+name: The Alex Nicoll Experience
+favicon: null
+layout_spectrum: 0.9489796
+typography_spectrum: 0.13574
 title: The Alex Nicoll Experience
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.375
-  brandStrength: 1
-  lightness: 0.7696025
   brandColors:
     - '#1F1F21'
     - '#E6EAE9'
     - '#51504C'
     - '#DE587D'
     - '#288287'
+  brandStrength: 1
+  lightness: 0.7696025
+  saturation: 0.375
   rhythmicContrast: 0.5844181
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: The Alex Nicoll Experience
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.13574
-layout_spectrum: 0.9489796
+purpose: []
